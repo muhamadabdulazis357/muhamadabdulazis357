@@ -27,8 +27,8 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/muhamadabdulazis357/muhamadabdulazis357/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/muhamadabdulazis357/muhamadabdulazis357/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -164,7 +164,7 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhamadabdulazis357/muhamadabdulazis357/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
