@@ -120,7 +120,7 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
 
 ---
 
-## 🤝 Connect With Me:
+## 🤝 Connect With Me
 
 <div align="center">
 
