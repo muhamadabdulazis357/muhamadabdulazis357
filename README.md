@@ -148,7 +148,7 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://tiktok.com/@cyaa100911" target="_blank">
+<a href="https://www.tiktok.com/@an0nym0us804" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 &nbsp;
