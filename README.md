@@ -27,7 +27,6 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhamadabdulazis357/muhamadabdulazis357/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/muhamadabdulazis357/muhamadabdulazis357/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
