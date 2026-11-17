@@ -132,27 +132,11 @@ I'm a Junior Frontend Developer passionate about building responsive, user-centr
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://x.com/MuhamadAbd52325" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/ceritahariku.id" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61587922582055" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://discord.gg/JgkjGEGFm" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.tiktok.com/@an0nym0us804" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:muhamadabdulazis357@gmail.com" target="_blank">
+<a href="mailto:develpomentteam419@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
